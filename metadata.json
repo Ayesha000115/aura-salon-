@@ -1,0 +1,8 @@
+{
+  "name": "Remix Aura Ladies Beauty Lounge \u0026 Bridal Studio",
+  "description": "Professional beauty, bridal makeup, hair, manicure, pedicure, and grooming services for ladies in Pakistan. Book seamlessly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
